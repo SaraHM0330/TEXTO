@@ -1,0 +1,2 @@
+# TEXTO
+Reconocimiento de textp
