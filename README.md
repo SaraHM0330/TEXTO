@@ -1,2 +1,1 @@
-# TEXTO
-Reconocimiento de textp
+# Reconocimiento Óptico de Caracteres
